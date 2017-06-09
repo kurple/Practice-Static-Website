@@ -1,0 +1,16 @@
+/* for pesky Internet Explorer 7 */
+/* the rules are slightly different */
+
+#header nav > ul > li {
+	display: inline;
+	vertical-align: top;
+}
+
+blockquote cite {
+	width: 100%;
+	text-align: right;
+}
+
+input[type="text"], input[type="email"] {
+	width: 88%;
+}
